@@ -166,7 +166,7 @@ export default function NotFound() {
       {/* Bottom Studio Coordinates */}
       <footer className="relative z-10 mx-auto flex w-full max-w-[1440px] flex-col items-start justify-between gap-2 border-t border-[#111315]/10 pt-6 text-[11px] uppercase tracking-[0.2em] text-[#5A5E66] sm:flex-row sm:items-center">
         <span>Abuja · Enugu — Nigeria</span>
-        <span>Architectural Glass Engineering</span>
+        <span>Top Glass Engineering</span>
       </footer>
     </main>
   );
